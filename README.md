@@ -1,7 +1,6 @@
 # TGAPneumoSeg
 TGAPneumoSeg: A Text-Guided Attention Network for Pneumothorax Segmentation in Chest X-rayss
 
-# TGA-PneumoSegmentation
 
 This repository contains code and documentation for **TGANet-based Pneumothorax Image Segmentation**. The core model implementation resides in the `main.ipynb` notebook.
 
