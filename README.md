@@ -127,19 +127,8 @@ TGAPneumoSeg is a modification of TGANet designed for medical image segmentation
 | PTXSeg-Net               | 0.8346     | 0.8194        |
 | **TGAPneumoSeg (Ours)**  | **0.8394** | **0.8198**    |
 
-### 📉 Loss and Metric Curves
 
-* Training/Validation Dice Score
-* Training/Validation Jaccard Index
-* Training/Validation Loss
 
-![Training Curves](./assets/training_curves.png)
-
-### 🧪 Sample Results
-
-| Input X-ray             | Ground Truth         | TGAPneumoSeg Prediction      |
-| ----------------------- | -------------------- | ---------------------------- |
-| ![](./assets/input.png) | ![](./assets/gt.png) | ![](./assets/prediction.png) |
 
 ## 📌 Conclusion
 
